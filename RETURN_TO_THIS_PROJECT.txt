@@ -1,0 +1,56 @@
+================================================================
+  BENTA — PRE-LOVED DECLUTTER WEBSITE
+  Instructions to Return to This Project
+================================================================
+
+WHAT WAS BUILT:
+  A single-page selling website for pre-loved items.
+  Style: Depop/Vinted inspired — bright, friendly, modern.
+  File: /Users/admin/Documents/CLAUDE/benta/index.html
+
+ITEMS CURRENTLY FOR SALE:
+  1. Figlia Gold Rhinestone Strappy Sandals — ₱600
+     Photos: asset/shoe_1.jpeg to shoe_6.jpeg
+     Comes with original Figlia box.
+
+  2. Ivory Pleated Satin Slip Dress — ₱350
+     Photos: asset/dress image 1.jpeg, dress image 2.jpeg, Dress image 3.jpeg
+     Open back, sweetheart neckline, midi length.
+
+HOW TO OPEN THE WEBSITE:
+  Option A — Double-click index.html in Finder
+  Option B — In terminal, type:
+    open /Users/admin/Documents/CLAUDE/benta/index.html
+
+HOW TO RETURN TO THIS CONVERSATION IN CLAUDE CODE:
+  Step 1: Open your terminal
+  Step 2: Navigate to the project folder:
+            cd /Users/admin/Documents/CLAUDE/benta
+  Step 3: Open Claude Code:
+            claude
+  Step 4: Claude will remember this project automatically.
+          Just say something like:
+            "I want to continue working on my Benta website"
+          or
+            "Let's update the shoe price" / "Add a new item"
+
+WHAT CLAUDE ALREADY KNOWS ABOUT THIS PROJECT:
+  - Design style chosen (Option 2: Bright & Friendly)
+  - Sections that were REMOVED (do not add back):
+      x  Meet the Seller section
+      x  How to Buy / 3 Easy Steps section
+      x  WhatsApp / Facebook buttons
+  - Nav structure: Shoes Gallery, Shoes Details, Dress Gallery, Dress Details
+  - Colors: Coral #FF6B6B, Mint #4ECDC4
+  - All asset filenames and prices
+
+THINGS YOU MIGHT WANT TO DO NEXT:
+  - Add more items (just drop images in the asset/ folder)
+  - Update prices
+  - Add your real contact number or social media link
+  - Change the shop name "Benta." to your own brand name
+  - Add a "SOLD" badge when an item is sold
+
+================================================================
+  Project saved: April 19, 2026
+================================================================
